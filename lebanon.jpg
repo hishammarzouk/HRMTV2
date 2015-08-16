@@ -5,32 +5,32 @@
 		<item name="HRM-IPTV" channel="https://sites.google.com/site/hrmtvxbmcaddon/HRM-IPTV.mp4"></item>
 		<item name="M3U_Channels" channel="https://sites.google.com/site/arabtvip/lebanon.m3u"></item>
 		<item name="MBCMaser" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCMaser"></item>
-		<item name="MBCDrama" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
-		<item name="MBC_1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="MBCDrama" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="MBC_1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="MBC2" channel="http://63.237.48.9/ios/MBC2/MBC2.m3u8"></item>
 		<item name="MBC4" channel="http://63.237.48.9/ios/MBC_4/MBC_4.m3u8"></item>
 		<item name="MBC_MAX" channel="http://63.237.48.9/ios/MBC_MAX/MBC_MAX.m3u8"></item>
 		<item name="MBC_ACTION" channel="http://63.237.48.9/ios/MBC_ACTION/MBC_ACTION.m3u8"></item>
 		<item name="MBC_BOLLYWOOD" channel="http://63.237.48.9/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8"></item>
-		<item name="Zee_aflam " channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_zeeaflem?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
-		<item name="Zee_Alwan" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=zee_alwan?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
-		<item name="CBC1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=cbc?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
-		<item name="CBCDrama" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=cbcd?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Zee_aflam " channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_zeeaflem?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Zee_Alwan" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=zee_alwan?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="CBC1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=cbc?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="CBCDrama" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=cbcd?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="CBCExtra" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/CBCExtra"></item>
-		<item name="Art_Aflam1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
-    	<item name="Art_Aflam2" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
-	    <item name="ART_Cinema" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artcinema?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
-		<item name="Cima" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=cima?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Art_Aflam1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+    	<item name="Art_Aflam2" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+	    <item name="ART_Cinema" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artcinema?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Cima" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=cima?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="Alhayat_1" channel="rtmp://162.212.176.107:1935/alhayat_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIwMTUt.MDEtMjUtMDAtNDUtMTc=/globaltv-alhayat_1.stream"></item>
 	    <item name="Alhayat_Cinema" channel="rtmp://162.212.176.107:1935/alhayat_cinema?v=a2V5bGl2ZTgzLTQ1LTEwMC.00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-alhayat_cinema.stream"></item>
 	    <item name="Moga_Comedy" channel="rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream"></item>
-		<item name="Rotana_Aflam" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=rc?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
-		<item name="Rotana_Clip" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=rcl?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Rotana_Aflam" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=rc?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Rotana_Clip" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=rcl?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="RotanaMasriya" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaMasriya"></item>
 		<item name="RotanaClassic" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaClassic"></item>
     	<item name="RotanaCinema" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaCinema"></item>
 		<item name="Alrai" channel="http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/playlist.m3u8"></item>
-		<item name="Fox_Movies" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=fm?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Fox_Movies" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=fm?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
         <item name="Aljadeed" channel="rtsp://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p"></item>
         <item name="MTV" channel="rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p"></item>
         <item name="LBC" channel="rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2"></item>
@@ -41,7 +41,7 @@
 		<item name="Alalamiyatv" channel="rtmp://live.ditve.tv:1935/demo5/demo5.stream_360p"></item>
 		<item name="Palestine" channel="http://live.paltoday.tv:1935/paltv/live/playlist.m3u8"></item>
 		<item name="Funoon" channel="http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8"></item>
-		<item name="Toyor_Al_Janah" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna?key=084104117032065117103032049051 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Toyor_Al_Janah" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="Al_Watan_TV" channel="http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8"></item>
 		<item name="Al_Watan_TV_Plus" channel="http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8"></item>
 		<item name="Al_Watan_Ghanawi" channel="http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8"></item>

@@ -5,9 +5,9 @@
 		#EXTINF:0,MBCMaser                                            
 		rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCMaser        
 		#EXTINF:0,MBCDrama                                             
-		rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 		#EXTINF:0,MBC_1                                              
-		rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 		#EXTINF:0,MBC2                                             
 		http://63.237.48.9/ios/MBC2/MBC2.m3u8        
 		#EXTINF:0,MBC4                                            
@@ -19,23 +19,23 @@
 		#EXTINF:0,MBC_BOLLYWOOD                                   
 		http://63.237.48.9/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8        
 		#EXTINF:0,Zee_aflam                                      
-		rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_zeeaflem?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_zeeaflem?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 		#EXTINF:0,CBC1                                          
-		rtmp://web.iptv-planet.com:1937/live2 playpath=cbc?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=cbc?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 		#EXTINF:0,CBCDrama                                      
-		rtmp://web.iptv-planet.com:1937/live2 playpath=cbcd?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=cbcd?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 		#EXTINF:0,CBCExtra                                         
 		rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/CBCExtra        
 		#EXTINF:0,Zee_Alwan                                        
-		rtmp://web.iptv-planet.com:1937/live2 playpath=zee_alwan?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=zee_alwan?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 		#EXTINF:0,Art_Aflam1                                       
-        rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+        rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
     	#EXTINF:0,Art_Aflam2                                        
-		rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 	    #EXTINF:0,ART_Cinema                                      
-		rtmp://web.iptv-planet.com:1937/live2 playpath=artcinema?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=artcinema?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 		#EXTINF:0,Cima                                           
-		rtmp://web.iptv-planet.com:1937/live2 playpath=cima?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=cima?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 		#EXTINF:0,Alhayat_1                                        
 		rtmp://162.212.176.107:1935/alhayat_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIwMTUt.MDEtMjUtMDAtNDUtMTc=/globaltv-alhayat_1.stream        
 	    #EXTINF:0,Alhayat_Cinema                                         
@@ -43,9 +43,9 @@
 	    #EXTINF:0,Moga_Comedy                                           
 		rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream        
 		#EXTINF:0,Rotana_Aflam                                             
-		rtmp://web.iptv-planet.com:1937/live2 playpath=rc?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=rc?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 		#EXTINF:0,Rotana_Clip                                           
-		rtmp://web.iptv-planet.com:1937/live2 playpath=rcl?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=rcl?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 		#EXTINF:0,RotanaMasriya                                       
         rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaMasriya        
 		#EXTINF:0,RotanaClassic                                      
@@ -55,7 +55,7 @@
 		#EXTINF:0,Alrai                                             
 		http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/playlist.m3u8        
 		#EXTINF:0,Fox_Movies                                      
-		rtmp://web.iptv-planet.com:1937/live2 playpath=fm?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=fm?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
         #EXTINF:0,Aljadeed                                        
 		https://svs.itworkscdn.net/aljadeedlive/aljadeed_240p/playlist.m3u8
         #EXTINF:0,MTV                                           
@@ -81,7 +81,7 @@
 		#EXTINF:0,Funoon                                           
 		http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8        
 		#EXTINF:0,Toyor_Al_Janah                                    
-		rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna?key=084117101032065117103032049049 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
+		rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna?key=083097116032065117103032049053 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20        
 		#EXTINF:-1,Bahrain_TV
 		http://155.obj.netromedia.net/alayam/alayam/playlist.m3u8
 		#EXTINF:-1,Bahrain_Sports
