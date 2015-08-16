@@ -4,6 +4,7 @@
 		<item name="MBC_1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1?key=" channelr=" swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="MBCDrama" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama?key=" channelr=" swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="MBC_BOLLYWOOD" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcbw?key=" channelr=" swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="MBC_MASR" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=mbcmasr?key=" channelr=" swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="Zee_aflam " channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_zeeaflem?key=" channelr=" swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="Zee_Alwan" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=zee_alwan?key=" channelr=" swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="AL_JADEED" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=aljadeed?key=" channelr=" swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
