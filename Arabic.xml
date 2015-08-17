@@ -17,8 +17,7 @@
 		<item name="Rotana_Clip" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=rcl?key=" channelr=" swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="Al_Nahar_Drama" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=ennahard?key=" channelr=" swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="Toyor_Al_Janah" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna?key=" channelr=" swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
-		
-   
+	
    </items>
 </data>
 
